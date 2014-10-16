@@ -5,3 +5,9 @@
 deps/
 *.beam
 ebin/*.app
+/.rebar/
+/.eunit/
+/.idea/
+*.iml
+/log
+/logs
